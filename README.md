@@ -1,1 +1,1 @@
-# myquiz_c38
+# myQuizGame
